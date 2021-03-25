@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Sammed-NJ/single-price-grid-component.git](https://github.com/Sammed-NJ/single-price-grid-component.git)
-- Live Site URL: [https://single-price-grid-component-sammednj.netlify.app/](https://single-price-grid-component-sammednj.netlify.app/)
+- Solution URL: [https://github.com/Sammed-NJ/four-card-feature-section-master.git](https://github.com/Sammed-NJ/four-card-feature-section-master.git)
+- Live Site URL: [https://four-card-feature-section-master-sammednj.netlify.app/](https://four-card-feature-section-master-sammednj.netlify.app/)
 
 ## My process
 
